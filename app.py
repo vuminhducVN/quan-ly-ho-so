@@ -199,7 +199,7 @@ with tab_ho_so:
         st.info("👋 Bảng dữ liệu đang trống. Hãy nhập hồ sơ mới từ thanh công cụ bên trái nhé!")
 
 with tab_thong_ke:
-    st.title("🔎 Bóc tách số liệu từ Y lệnh")
+    st.title("🔎 Bóc tách số liệu")
 
     st.caption("Upload file Excel/CSV có cột `YLENH`, nhập bộ lọc và bấm **Lọc Dữ Liệu** để trích xuất số lượng thuốc theo đúng mẫu `... x [Số lượng] [Đơn vị]`.")
 
